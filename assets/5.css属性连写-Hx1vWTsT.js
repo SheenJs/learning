@@ -1,1 +1,0 @@
-import{_,o as c,c as e}from"./index-px78HyFv.js";const s={},o={class:"font"};function t(a,n){return c(),e("div",o,"我系追追追")}const d=_(s,[["render",t],["__scopeId","data-v-3a586895"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_,y as t,bi as n,z as s,o as a,c}from"./index-2Mha699D.js";const r={id:"container"},d={__name:"1.高德地图初体验",setup(i){let e=null;return t(()=>{n(o=>{e=new o.Map("container",{viewMode:"3D",zoom:11,center:[116.397428,39.90923]})})}),s(()=>{e==null||e.destroy()}),(o,p)=>(a(),c("div",r))}},l=_(d,[["__scopeId","data-v-0e3e13d1"]]);export{l as default};
