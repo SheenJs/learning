@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as _}from"./index-cgOjhSOl.js";const o={},s={class:"before-after"};function t(r,a){return c(),_("div",s,"内容")}const f=e(o,[["render",t],["__scopeId","data-v-de3165ec"]]);export{f as default};

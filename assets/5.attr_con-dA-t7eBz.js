@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as t}from"./index-cgOjhSOl.js";const o={},_={class:"font"};function s(n,a){return e(),t("div",_,"我系追追追")}const d=c(o,[["render",s],["__scopeId","data-v-e535d2fc"]]);export{d as default};

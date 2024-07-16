@@ -1,0 +1,1 @@
+.item[data-v-afb78937]{display:flex;align-items:center}.item span[data-v-afb78937]{color:red}.item input[data-v-afb78937]{border:1px solid #aaa}.item span[data-v-afb78937]:has(+input:required){color:red}.item span[data-v-afb78937]:has(+input:optional){display:block;color:green}

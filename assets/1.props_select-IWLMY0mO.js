@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o}from"./index-cgOjhSOl.js";const t={},s={name:"my-name-is-wgh",age:"18",hobby:"睡觉打游戏",href:"https://baidu.com"};function _(a,n){return c(),o("div",s)}const d=e(t,[["render",_],["__scopeId","data-v-bd48fca0"]]);export{d as default};
