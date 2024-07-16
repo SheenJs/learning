@@ -1,0 +1,1 @@
+import{d as a,af as o,u as t,ag as c,o as r,c as n,_}from"./index-ArmOtO4R.js";const d={class:"container"},i=a({__name:"10.gridding",setup(f){o(s=>({"7cc831ae":t(e)}));const{primaryColor:e}=c();return(s,p)=>(r(),n("div",d))}}),m=_(i,[["__scopeId","data-v-ff9ea8e9"]]);export{m as default};

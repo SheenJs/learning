@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-ArmOtO4R.js";const _={},o={class:"target"};function s(r,a){return c(),t("div",o)}const f=e(_,[["render",s],["__scopeId","data-v-b502f63d"]]);export{f as default};

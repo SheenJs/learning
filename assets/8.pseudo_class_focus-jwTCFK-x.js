@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-ArmOtO4R.js";const o={},_={placeholder:"请输入",type:"text"};function s(a,n){return c(),t("input",_)}const p=e(o,[["render",s],["__scopeId","data-v-cbf7556c"]]);export{p as default};

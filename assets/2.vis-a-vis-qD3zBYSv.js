@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,p as o,l as _,a as e}from"./index-ArmOtO4R.js";const n={},p=s=>(o("data-v-3eacafee"),s=s(),_(),s),d=p(()=>e("div",{class:"test"},[e("span",{class:"base"}),e("span",{class:"target"}),e("span",{class:"target"})],-1)),r=[d];function l(s,i){return c(),t("div",null,r)}const h=a(n,[["render",l],["__scopeId","data-v-3eacafee"]]);export{h as default};

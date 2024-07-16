@@ -1,1 +1,0 @@
-import{_ as c,o as e,c as s}from"./index-cgOjhSOl.js";const t={},_={class:"link",href:"https://www.baidu.com",target:"_blank"};function a(o,n){return e(),s("a",_,"百度一下,你就知道")}const d=c(t,[["render",a],["__scopeId","data-v-df53bc3b"]]);export{d as default};
